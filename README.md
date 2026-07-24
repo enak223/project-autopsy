@@ -26,7 +26,7 @@ findings and produce an investigation report.
 ## 🗺️ Roadmap
 | Version | Milestone | Status |
 |---------|-----------|--------|
-| v0.1 | Velociraptor server up, GUI reachable, agent enrolled | 🔄 In progress |
+| v0.1 | Velociraptor server up, GUI reachable, agent enrolled | ✅ Complete |
 | v0.2 | Wazuh alert → hunt trigger | ⏳ Planned |
 
 ## 📁 Project Structure
