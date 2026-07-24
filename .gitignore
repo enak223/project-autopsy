@@ -1,3 +1,7 @@
+# Velociraptor secrets — never commit
+api_client.yaml
+*.config.yaml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
